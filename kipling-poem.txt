@@ -1,4 +1,11 @@
-If-- by Rudyard Kipling
+If-- by Rudyard Kipling with additions by Dillon Davis
+
+If you can complete this project
+    without having to look at the tutorial,
+If you can remember to add a comment when you commit,
+    instead of opening a new window,
+If you can remember to push after all is done,
+    then a true software engineer you can become!
 
 If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
